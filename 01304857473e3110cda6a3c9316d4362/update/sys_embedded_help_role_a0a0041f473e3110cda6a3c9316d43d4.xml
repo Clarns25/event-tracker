@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1259150_inspesto.users" name="x_1259150_inspesto.users">60a00c5b473e3110cda6a3c9316d434d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-04 03:32:13</sys_created_on>
+        <sys_id>a0a0041f473e3110cda6a3c9316d43d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>60a00c5b473e3110cda6a3c9316d434d</sys_name>
+        <sys_package display_value="Inspestor" source="x_1259150_inspesto">01304857473e3110cda6a3c9316d4362</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inspestor">01304857473e3110cda6a3c9316d4362</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a0a0041f473e3110cda6a3c9316d43d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-04 03:32:13</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
